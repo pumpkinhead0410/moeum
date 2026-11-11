@@ -131,6 +131,10 @@ logs/security/
 # Added by codex
 .codex
 
+# Ignore Graft generated caches and code graphs.
+/graft/.cache/
+/graft/.graph/
+
 # Ignore Playwright artifacts
 playwright-report/
 .playwright-mcp
