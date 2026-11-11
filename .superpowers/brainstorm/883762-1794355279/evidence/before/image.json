@@ -1,0 +1,14 @@
+{
+  "image": {
+    "complete": true,
+    "width": 2620,
+    "height": 1775,
+    "source": "/files/sure-reference.webp"
+  },
+  "imageResponses": [
+    {
+      "status": 200,
+      "contentType": "application/octet-stream"
+    }
+  ]
+}
