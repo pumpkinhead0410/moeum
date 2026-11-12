@@ -131,10 +131,6 @@ logs/security/
 # Added by codex
 .codex
 
-# Ignore Graft generated caches and code graphs.
-/graft/.cache/
-/graft/.graph/
-
 # Ignore Playwright artifacts
 playwright-report/
 .playwright-mcp
@@ -145,6 +141,6 @@ playwright-report/
 # graft's local graph cache — regenerable, not committed (run `graft build`).
 /graft/
 
-#
-.local
-.superpowers
+# Local private data and brainstorming session artifacts.
+/.local/
+/.superpowers/
