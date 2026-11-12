@@ -1,5 +1,11 @@
 # Repository guidance
 
+## 지침 적용 우선순위
+
+별도 사용자 지시가 없으면 이 저장소의 `AGENTS.md`와 여기서 연결한 작업별 가이드를 개인 공통 지침보다 우선 적용합니다. 개인 공통 지침은 프로젝트 지침에서 정하지 않은 사항을 보완합니다. 명시적 사용자 지시와 상위 시스템·개발자 지시의 우선순위는 유지합니다.
+
+변경 이력 (Asia/Seoul): 2026-11-12 14:54 사용자 결정으로 포크 프로젝트의 지침을 개인 공통 지침보다 우선하도록 명시했습니다. 기존 upstream 지침은 보존했습니다.
+
 ## Working in the repository
 
 - Read [architecture and conventions](docs/llm-guides/architecture.md) before changing code, and the relevant [task guides](docs/llm-guides/README.md).
